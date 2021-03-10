@@ -10,3 +10,7 @@ Recitation 4: Endianness, Lab 3.
 
 Recitation 5: Conditionals, Loops.
 
+Recitation 6: Functions.
+
+Recitation 7: Bitwise Operations, Bit Fields.
+
