@@ -16,3 +16,4 @@ Recitation 7: Bitwise Operations, Bit Fields.
 
 Recitation 8: Floating Point Representations, Lab 7.
 
+Recitation 9: Logic Gates, Lab 8.
