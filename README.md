@@ -14,3 +14,5 @@ Recitation 6: Functions.
 
 Recitation 7: Bitwise Operations, Bit Fields.
 
+Recitation 8: Floating Point Representations, Lab 7.
+
